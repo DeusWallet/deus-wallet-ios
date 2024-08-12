@@ -1,0 +1,24 @@
+etherscan_api_key =
+arbiscan_api_key =
+optimism_etherscan_api_key =
+bscscan_api_key =
+polygonscan_api_key =
+gnosisscan_api_key =
+ftmscan_api_key =
+snowtrace_api_key =
+defiyield_api_key =
+twitter_bearer_token =
+market_api_url = https:/$()/api.blocksdecoded.com
+hs_provider_api_key =
+trongrid_api_key =
+wallet_connect_v2_project_key =
+shared_cloud_container_id = iCloud.io.deus.wallet.shared
+private_cloud_container_id = iCloud.io.deus.wallet
+open_sea_api_key =
+unstoppable_domains_api_key =
+one_inch_api_key =
+report_endpoint = https://appsflyer-skadnetwork.com/
+
+swap_enabled = false
+donate_enabled = false
+
